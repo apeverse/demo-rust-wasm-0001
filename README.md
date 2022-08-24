@@ -42,4 +42,25 @@ https://github.com/second-state/substrate-wasmedge
 
 https://github.com/second-state/wasm-learning
 
+https://www.secondstate.io/articles/webassembly-in-the-browser
+
+https://www.secondstate.io/articles/rust-and-webassembly
+
+https://www.secondstate.io/articles/extend-webassembly
+
+https://www.secondstate.io/articles/ebpf-and-webassembly-whose-vm-reigns-supreme
+
+此文对 ebpf 和 wasm 两个 vm 进行了简单对比
+
+
+
+
+## 其他
+
+https://wasm.fastlylabs.com/docs/rust/http_guest/kvstore/struct.KVStore.html
+
+https://www.fastly.com/blog/edge-programming-rust-web-assembly
+
+
+
 
