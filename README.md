@@ -1,5 +1,7 @@
 # demo-rust-wasm-0001
 
+## part 1
+
 https://rustwasm.github.io/wasm-pack
 
 https://rustwasm.github.io/wasm-pack/book
@@ -33,5 +35,11 @@ rust 社区的生态基本是围绕着 wasm32-unknown-unknown 和 wasm32-wasi �
 不过考虑到unknown环境对外部依赖少，所以 sdk 中的 rust 代码我们就先确定了，优先使用 wasm32-unknown-unknown 模式，wasm32-wasi 模式次之。
 
 而对于 sqlite 部分，我们则将三种 wasm 工作模式都尝试了
+
+## part 2
+
+https://github.com/second-state/substrate-wasmedge
+
+https://github.com/second-state/wasm-learning
 
 
