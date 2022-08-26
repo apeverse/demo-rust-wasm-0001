@@ -2,6 +2,8 @@
 
 ## part 1
 
+https://webassembly.org/
+
 https://rustwasm.github.io/wasm-pack
 
 https://rustwasm.github.io/wasm-pack/book
@@ -51,6 +53,29 @@ https://www.secondstate.io/articles/extend-webassembly
 https://www.secondstate.io/articles/ebpf-and-webassembly-whose-vm-reigns-supreme
 
 此文对 ebpf 和 wasm 两个 vm 进行了简单对比
+
+
+## part 3
+
+https://github.com/WebAssembly/wabt
+
+https://webassembly.github.io/spec/core/binary/index.html
+
+https://wasdk.github.io/wasmcodeexplorer/
+
+![image](https://user-images.githubusercontent.com/32976079/186940067-821dc2d8-e615-44a3-a33b-edae602edbf1.png)
+
+![image](https://user-images.githubusercontent.com/32976079/186940526-8ce517fe-b305-434d-93f9-cf438b672125.png)
+
+https://segmentfault.com/a/1190000040737725/en
+
+https://hacks.mozilla.org/2018/01/making-webassembly-even-faster-firefoxs-new-streaming-and-tiering-compiler/
+
+https://rsms.me/wasm-intro
+
+https://developer.mozilla.org/en-US/docs/WebAssembly
+
+https://webassembly.github.io/spec/
 
 
 
