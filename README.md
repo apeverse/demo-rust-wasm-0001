@@ -1,5 +1,33 @@
 # demo-rust-wasm-0001
 
+
+## part 0
+
+https://rustwasm.github.io/docs
+
+https://rustwasm.github.io/docs/book/
+
+https://github.com/rustwasm
+
+https://github.com/rustwasm/wasm-bindgen
+
+https://github.com/rustwasm/wasm-pack
+
+https://github.com/rustwasm/wasm-pack-template
+
+https://rustwasm.github.io/wasm-pack
+
+https://rustwasm.github.io/wasm-pack/book/introduction.html
+
+https://webpack.js.org/concepts
+
+> wasm-pack seeks to be a one-stop shop for building and working with rust-generated WebAssembly that you would like to interop with JavaScript, in the browser or with Node.js. 
+
+> wasm-pack helps you build rust-generated WebAssembly packages that you could publish to the npm registry, or otherwise use alongside any javascript packages in workflows that you already use, such as webpack.
+
+> wasm-bindgen is a Rust library and CLI tool that facilitate high-level interactions between wasm modules and JavaScript. 
+
+
 ## part 1
 
 https://webassembly.org/
