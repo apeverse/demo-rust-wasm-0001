@@ -1,6 +1,45 @@
 # demo-rust-wasm-0001
 
 
+
+## vm
+
+https://www.graalvm.org/22.2/docs/introduction/
+
+qemu kvm
+
+wasmer 官方给出的 wasmer 与 wasmtime 的对比
+
+https://wasmer.io/wasmer-vs-wasmtime
+
+各种各样的 wasm runtime 列表
+
+https://github.com/appcypher/awesome-wasm-runtimes
+
+https://wapm.io/saghul/quickjs
+
+https://github.com/wasmerio/wasmer/tree/master/examples
+
+https://webassembly.sh
+
+https://docs.rs/wasmer/latest/wasmer
+
+https://medium.com/wasmer/introducing-wax-a-webassembly-package-runner-d69943209d58
+
+https://docs.wasmer.io/
+
+https://wasmer.io/posts
+
+https://wapm.io/vshymanskyy/wasm3
+
+https://blog.logrocket.com/webassembly-runtimes-compared/
+
+https://blog.logrocket.com/modern-browser-apis-to-use-today/
+
+![image](https://user-images.githubusercontent.com/32976079/185843637-40737ef6-0e8d-4648-be08-924723890d93.png)
+
+
+
 ## part 0
 
 https://rustwasm.github.io/docs
