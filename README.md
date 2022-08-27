@@ -39,6 +39,9 @@ https://openethereum.github.io/WebAssembly-GasMetering
 
 https://openethereum.github.io/WebAssembly-Links
 
+https://github.com/ewasm/wasm-metering
+
+https://github.com/ewasm/wasm-metering
 
 ## binaryen & emscripten
 
