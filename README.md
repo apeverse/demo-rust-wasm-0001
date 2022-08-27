@@ -29,11 +29,16 @@ https://webpack.js.org/concepts
 
 > wasm-bindgen is a Rust library and CLI tool that facilitate high-level interactions between wasm modules and JavaScript. 
 
-## wasm gas
+## wasm gas metering
 
 https://github.com/paritytech/wasm-instrument
 
 https://github.com/paritytech/wasm-utils
+
+https://openethereum.github.io/WebAssembly-GasMetering
+
+https://openethereum.github.io/WebAssembly-Links
+
 
 ## binaryen & emscripten
 
