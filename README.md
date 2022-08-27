@@ -29,6 +29,22 @@ https://webpack.js.org/concepts
 
 > wasm-bindgen is a Rust library and CLI tool that facilitate high-level interactions between wasm modules and JavaScript. 
 
+## wasm gas
+
+https://github.com/paritytech/wasm-instrument
+
+https://github.com/paritytech/wasm-utils
+
+## binaryen & emscripten
+
+https://github.com/WebAssembly/binaryen
+
+https://github.com/emscripten-core/emscripten
+
+> Binaryen is a compiler and toolchain infrastructure library for WebAssembly, written in C++. It aims to make compiling to WebAssembly easy, fast, and effective.
+
+> Emscripten compiles C and C++ to WebAssembly using LLVM and Binaryen. Emscripten output can run on the Web, in Node.js, and in wasm runtimes.
+
 
 ## part 1
 
