@@ -78,16 +78,17 @@ WASM 三种工作模式：emscripten、wasi、无依赖
 
 前两种模式分别需要宿主提供 posix 接口和 wasi 接口功能，最后一种模式完全没有外部依赖
 
-在Rust语言中，分别对应三种编译目标
+Rust 中分别对应三种编译目标
 
 - wasm32-unknown-emscripten （依赖 posix 接口）
 - wasm32-wasi （依赖 wasi 接口）
 - wasm32-unknown-unknown （无依赖）
 
-这三种模式，对C/C++代码的友好度：emscripten > wasi >> unknown
+这三种模式，对 C/C++ 代码的友好度：emscripten > wasi >> unknown
 
-rust 社区的生态基本是围绕着 wasm32-unknown-unknown 和 wasm32-wasi 构建的，如 wasm-bindgen 工具等；
+Rust 社区的生态基本是围绕着 wasm32-unknown-unknown 和 wasm32-wasi 构建的，如 wasm-bindgen 工具等；
 
+Rust has Emscripten integration, with the wasm32-unknown-emscripten and asmjs-unknown-emscripten targets.
 
 ## part 2
 
