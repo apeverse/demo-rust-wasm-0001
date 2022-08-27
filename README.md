@@ -5,7 +5,11 @@
 
 https://rustwasm.github.io/docs
 
-https://rustwasm.github.io/docs/book/
+https://rustwasm.github.io/docs/book
+
+https://rustwasm.github.io/wasm-pack/book/introduction.html
+
+https://rustwasm.github.io/docs/wasm-bindgen/introduction.html
 
 https://github.com/rustwasm
 
@@ -16,8 +20,6 @@ https://github.com/rustwasm/wasm-pack
 https://github.com/rustwasm/wasm-pack-template
 
 https://rustwasm.github.io/wasm-pack
-
-https://rustwasm.github.io/wasm-pack/book/introduction.html
 
 https://webpack.js.org/concepts
 
