@@ -4,6 +4,8 @@
 
 ## vm
 
+https://wiki.nikiv.dev/web/webassembly
+
 https://www.graalvm.org/22.2/docs/introduction/
 
 qemu kvm
