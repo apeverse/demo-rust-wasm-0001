@@ -77,6 +77,9 @@ https://webpack.js.org/concepts
 
 > wasm-bindgen is a Rust library and CLI tool that facilitate high-level interactions between wasm modules and JavaScript. 
 
+> In rust, tools like wasm-bindgen, which is part of wasm-pack workflow, abstracts away linear memory, and allows using native data structures between rust and Javascript. https://wasmbyexample.dev/examples/webassembly-linear-memory/webassembly-linear-memory.rust.en-us.html
+
+
 ## wasm gas metering
 
 https://github.com/paritytech/wasm-instrument
