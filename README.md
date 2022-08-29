@@ -1,14 +1,21 @@
 # demo-rust-wasm-0001
 
 
+https://www.graalvm.org/22.2/docs/introduction/
+
+- qemu 
+- kvm
+- graalvm
 
 ## vm
 
 https://wiki.nikiv.dev/web/webassembly
 
-https://www.graalvm.org/22.2/docs/introduction/
-
-qemu kvm
+- wasmtime
+- wasmer
+- wasm3
+- wavm
+- wasmi
 
 wasmer 官方给出的 wasmer 与 wasmtime 的对比
 
